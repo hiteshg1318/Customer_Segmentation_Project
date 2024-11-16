@@ -39,6 +39,7 @@ Visualization and Reporting: Summarizing insights with plots and dashboards.
 **Folder Structure**
 plaintext
 Copy code
+
 hiteshg1318/customer_segmentation_analysis
 ├── data/               # Contains the transactional dataset(s)
 ├── notebooks/          # Jupyter notebooks with RFM and MBA analyses
