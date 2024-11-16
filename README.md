@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-1.x-lightblue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.x-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Overview
 
@@ -91,11 +90,6 @@ We welcome contributions! Follow these steps:
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Contact
 
